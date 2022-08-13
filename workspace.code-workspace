@@ -1,3 +1,8 @@
 {
-	"folders": []
+	"folders": [
+		{
+			"name": "discovery_service_eureka",
+			"path": "discovery_service_eureka"
+		}
+	]
 }
