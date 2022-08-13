@@ -7,6 +7,10 @@
 		{
 			"name": "gateway_service_zuul",
 			"path": "gateway_service_zuul"
+		},
+		{
+			"name": "controle-de-pessoas",
+			"path": "controle-de-pessoas"
 		}
 	],
 	"settings": {
