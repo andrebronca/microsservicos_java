@@ -3,6 +3,13 @@
 		{
 			"name": "discovery_service_eureka",
 			"path": "discovery_service_eureka"
+		},
+		{
+			"name": "gateway_service_zuul",
+			"path": "gateway_service_zuul"
 		}
-	]
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
 }
